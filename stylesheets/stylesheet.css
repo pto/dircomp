@@ -167,6 +167,9 @@ a.button span {
 #download-exe span {
   background: transparent url(../images/exe-icon.png) 12px 50% no-repeat;
 }
+#download-darwin span {
+  background: transparent url(../images/darwin-icon.png) 12px 50% no-repeat;
+}
 
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
